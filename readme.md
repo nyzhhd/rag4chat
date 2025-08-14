@@ -157,6 +157,6 @@ python app_api.py
 
 
 ## 特别感谢
-
+tgltommy : https://www.tgltommy.com/  
 RAGAnyThing：https://github.com/HKUDS/RAG-Anything  
 Agno: https://github.com/agno-agi/agno
