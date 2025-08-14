@@ -73,12 +73,12 @@ python app_api.py
 
 - **获取问题答案**:
   ```
-  POST http://192.10.220.191:19006/v1/chat/completions
+  POST http://192.10.220.xxx:19006/v1/chat/completions
   ```
 
 - **检查接口是否可用**:
   ```
-  GET http://192.10.220.191:19006/health
+  GET http://192.10.220.xxx:19006/health
   ```
 
 ##### 前端发送的请求体 (Request Body)
@@ -104,7 +104,7 @@ python app_api.py
   "similarity": 0.5,
   "is_summary": false,
   "stream": false,
-  "apiKey": "sk-6Xc1YUnHfPn98EbWXOE4zA"
+  "apiKey": "sk-6xxUxxxzA"
 }
 ```
 
