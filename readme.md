@@ -39,7 +39,16 @@
 ```bash
 git clone https://github.com/nyzhhd/rag4chat.git
 ```
+```bash
+conda create -n myenv python=3.10
+```
+```bash
+cd rag4chat
+```
 
+```bash
+conda activate myenv
+```
 ### 安装依赖库
 
 ```bash
